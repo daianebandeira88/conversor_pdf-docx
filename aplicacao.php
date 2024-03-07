@@ -71,7 +71,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <input type="text" id="output_folder" name="output_folder" required class="mt-2 border border-gray-400 rounded-md"><br><br>
             <input type="submit" value="Converter PDF para DOCX" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
         </form>
-    </div>
+    </div> 
 
     <script>
     </script>
